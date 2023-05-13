@@ -172,6 +172,10 @@ a{
     box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.06);
     color: var(--text-color);
     background-color: var(--element-bg);
+    background-image: url(../img/icon-search.svg);
+    background-repeat: no-repeat;
+    background-size: 24px ;
+    background-position: 32px center;
 }
 .filters-region-select {
     min-width: 200px;
@@ -221,7 +225,7 @@ a{
     margin-top: 0;
     font-size: 18px;
     line-height: 26px;
-    font-weight: 800;
+    font-weight: 700;
     margin-bottom: 16px;
 }
 .index-country-name-link{
